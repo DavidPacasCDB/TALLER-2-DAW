@@ -1,0 +1,244 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background-image: url(http://www.solofondos.com/wp-content/uploads/2015/04/Fondos-de-paisajes.jpg);
+	background-size: 100rem;
+}
+header{
+	text-align: center;
+	color:blue;
+	background-color: grey;
+}
+
+.Descripción {
+	text-align: center;
+	font-size: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: white;
+}
+
+.menu1 {
+	background-color: yellow;
+	width: 384px;
+	height: 285px;
+	padding: 25px;	
+	margin-top: 20px;
+	margin-bottom: 20px;
+	float: right;
+	text-align: center;
+	display: flex;	
+	position: center;
+	align-items: center;
+	margin-left: 15px;
+}
+
+.menu2 {
+	background-color: blue;
+	width: 384px;
+	height: 285px;
+	padding: 25px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align:center;
+	display: flex;
+	float: right;
+	position: center;
+	align-items: center;
+	margin-left: 15px;
+	color: white	;
+}
+
+.menu3 {
+	background-color: green;
+	width: 384px;
+	height: 285px;
+	padding: 25px;
+	margin-top: 20px;
+	float: right;
+	margin-bottom: 20px;
+	display: flex;
+	text-align: center;
+	align-items: center;
+	margin-left: 15px;
+}
+
+.agregados {
+	text-align: center;
+	font-size: 15px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	color: white;
+}
+
+.agregados1{
+	background-color: green;
+	width: 184px;
+	height: 65px;
+	padding: 25px;
+	margin-top: 20px;
+	float: right;
+	margin-bottom: 20px;
+	text-align: center;
+	align-items: center;
+	margin-left: 15px;
+	padding-right: 15px;
+	margin-right: 85px;
+}
+
+.agregados2{
+		background-color: green;
+	width: 184px;
+	height: 75px;
+	padding: 25px;
+	margin-top: 20px;
+	float: right;
+	margin-bottom: 20px;
+	text-align: center;
+	align-items: center;
+	margin-left: 15px;
+	padding-right: 15px;
+}
+
+.agregados3{
+	background-color: green;
+	width: 184px;
+	height: 75px;
+	padding: 25px;
+	margin-top: 20px;
+	float: right;
+	margin-bottom: 20px;
+	text-align: center;
+	align-items: center;
+	margin-left: 15px;
+	padding-right: 15px;
+}
+
+.agregados4{
+	background-color: green;
+	width: 184px;
+	height: 75px;
+	padding: 25px;
+	margin-top: 20px;
+	float: right;
+	margin-bottom: 20px;
+	text-align: center;
+	align-items: center;
+	margin-left: 15px;
+	padding-right: 15px;
+}
+
+.agregados5{
+		background-color: green;
+	width: 184px;
+	height: 75px;
+	padding: 25px;
+	margin-top: 20px;
+	float: right;
+	margin-bottom: 20px;
+	text-align: center;
+	align-items: center;
+	margin-left: 15px;
+	padding-right: 15px;
+	margin-right: 85px;
+}
+
+.agregados6{
+		background-color: green;
+	width: 184px;
+	height: 75px;
+	padding: 25px;
+	margin-top: 20px;
+	float: right;
+	margin-bottom: 20px;
+	text-align: center;
+	align-items: center;
+	margin-left: 15px;
+	padding-right: 15px;
+}
+
+.agregados7{
+		background-color: green;
+	width: 184px;
+	height: 75px;
+	padding: 25px;
+	margin-top: 20px;
+	float: right;
+	margin-bottom: 20px;
+	text-align: center;
+	align-items: center;
+	margin-left: 15px;
+	padding-right: 15px;
+}
+.agregados8{
+		background-color: green;
+	width: 184px;
+	height: 75px;
+	padding: 25px;
+	margin-top: 20px;
+	float: right;
+	margin-bottom: 20px;
+	text-align: center;
+	align-items: center;
+	margin-left: 15px;
+	padding-right: 15px;
+}
+
+.agregados9{
+		background-color: green;
+	width: 184px;
+	height: 75px;
+	padding: 25px;
+	margin-top: 20px;
+	float: right;
+	margin-bottom: 20px;
+	text-align: center;
+	align-items: center;
+	margin-left: 15px;
+	padding-right: 15px;
+	
+}
+
+.Form1{
+		background-color: green;
+	width: 1000px;
+	height: 75px;
+	padding: 25px;
+	margin-top: 20px;
+	float: right;
+	margin-bottom: 20px;
+	text-align: center;
+	align-items: center;
+	margin-left: 15px;
+	padding-right: 250px;
+
+}
+
+.Form2{
+	background-color: green;
+	width: 400px;
+	height: 75px;
+	padding: 25px;
+	margin-top: 20px;
+	float: left;
+	margin-bottom: 20px;
+	text-align: center;
+	align-items: center;
+	margin-left: 15px;
+
+}
+
+.selecciones {
+	 margin-bottom: 10px;
+        margin-top: 10px;
+        font-family: cursive, sans-serif;
+        outline: 0;
+        background: #2ecc71;
+        color: #fff;
+        border: 1px solid crimson;
+        padding: 4px;
+        border-radius: 9px;
+}
